@@ -1,0 +1,57 @@
+body{
+  width: 100%;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li{
+  display: inline;
+}
+
+.SignIn{
+  display: inline;
+}
+
+.Toplinelist{
+  position: fixed;
+  right: 0px;
+}
+
+.Bottomline{
+  position: fixed;
+  width: 100%;
+  bottom: 0px;
+}
+
+.Indentleft{
+  position: relative;
+  left: 0px;
+}
+
+.Indentright{
+  position: relative;
+  right: 0px;
+}
+
+.Googlelogo{
+  text-align: center;
+  padding-top: 20%;
+}
+
+.Searchbar{
+  text-align: center;
+}
+
+.GoogleSearch{
+  display: inline;
+  margin-left: auto;
+}
+
+.FeelingLucky{
+  display: inline;
+  margin-right: auto;
+}
